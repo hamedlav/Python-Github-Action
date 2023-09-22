@@ -5,7 +5,7 @@ name: python script
 # Controls when the workflow will run
 on:
   # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch: or we can add schedule
+  workflow_dispatch:
   # schedule:
     # - cron: '* * * * *' # At 00:00 on Monday
 
